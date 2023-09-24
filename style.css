@@ -1,0 +1,377 @@
+body{
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+.aa{
+    padding: 10px 20px 10px 20px !important;
+    font-size: 12px !important;
+    margin-right: 10px  !important;
+    background-color: rgb(15, 76, 182) !important;
+    color: aliceblue !important;
+}
+.bb{
+    padding: 10px 20px 10px 20px !important;
+    font-size: 12px !important;
+    margin-right: 100px  !important;
+    background-color: rgb(70, 147, 21) !important;
+    color: aliceblue !important;
+}
+.ah:hover{
+    color: rgb(70, 147, 21) !important;
+    text-decoration: underline !important;
+}
+
+.hl {
+    width: 50% !important;
+    height: 450px !important;
+    padding: 50px 150px 50px 150px;
+    position: relative;
+    bottom: 500px !important;
+
+}
+.ap{
+     padding: 10px 60px 10px 60px !important;
+     border-color: black !important;
+     background-color: white !important;
+     color: black !important;
+}
+#pl{
+    position: relative;
+    left: 50%;
+}
+
+.kl{ color: rgb(70, 147, 21) !important ;}
+
+.cards{
+padding-left: 100px;
+
+}
+.lkj{
+margin-top: -300px;
+    height: 100px !important;
+}
+.yu{
+    border-color:  2px solid black;
+    background-color: blueviolet;
+    width: 200px;
+    padding: 10px;
+
+}
+.ub
+{ border-color:  2px solid black;
+      width: 200px;
+position: relative;
+padding: 0px 8px 0.1px 40px ;
+margin-top: -5px;
+bottom: 200px;
+left: 200px;
+background-color: rgba(116, 248, 204, 0.959);
+    
+}
+
+
+
+.div2{
+    background-color: rgb(172, 235, 135);
+    padding: 60px;
+    width: 90vw;
+    position: relative;
+    bottom: 250px;
+    left: 5vw;
+    margin-top: -50px;
+    border-radius: 10px;
+}
+.bt6{
+    padding: 15px;
+    margin-right: -10px;
+    background-color: rgb(82, 79, 79);
+    color: white;
+    border-radius: 5px;
+}
+.bt4{
+    padding: 15px; 
+    margin-right: -10px;
+  
+}
+.bt5{
+    padding: 15px; 
+    border-radius: 5px;
+    background-color: rgb(59, 55, 55) ;
+    color: white;
+}
+.bt7{
+    padding: 15px;
+    border: none ;
+    background-color: white;
+    border-radius: 10px;
+    margin: 20px;
+    position: relative;
+    bottom: 50px;
+}
+.bt7:hover{
+    border-radius: 6px;
+    background-color: rgb(59, 55, 55) ;
+    color: white;
+    transform: scale(1.1);
+    transition: 10ms;
+}
+.bt8{
+margin-left: 380px;
+background-color: rgb(70 ,147, 21)  ;
+padding: 15px;
+border: none ;
+border-radius: 10px;
+color: white;
+}
+.bt8:hover{
+    border-radius: 6px;
+
+    color: white;
+    transform: scale(1.1);
+    transition: 10ms;
+}
+
+#omn{
+margin-top: -200px;
+width: 1300px;
+padding-left: 70px;
+
+}
+
+
+.ii{
+    margin: 70px;
+    padding-left: 100px;
+}
+
+.icon{
+    height: 150px;
+    width: 150px;
+}
+
+.icons{
+    height: 100px;
+    width: 100px;
+}
+.icon{
+    border: none;
+}
+.text{
+
+text-align: center;
+font-size: 50px;
+
+padding-top: 20px;
+
+margin-top: -10px;
+
+}
+
+body {
+    box-sizing: border-box;
+}
+.div8-head {
+    text-align: center;
+}
+
+.div8-head {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.div8-head span {
+    color: #8dc63f;
+}
+
+.ant-typography {
+    color: rgba(0, 0, 0, .85);
+    word-break: break-word;
+}
+
+.div8-text {
+    font-size: 16px !important;
+}
+.profile-container {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    text-align: center;
+    border: 2px;
+    border-radius: 10px;
+    background-size: 120px;
+    background-color:  #CCCCCC;
+    padding: 20px 70px 20px 70px ; 
+    box-sizing: border-box;
+    height: 500px;
+    margin: 0px 65px 0px 65px ;
+  }
+.profile-image {
+    width: 150px; 
+    height: 150px;
+    border-radius: 50%; 
+    border: 2px solid #ffffff; 
+    overflow: hidden; 
+  }
+  
+.card1 {
+    background-color: #8dc63f;
+    font-size: smaller;
+    padding: 8px 10px;
+}
+
+.div-11 {
+    background-image: url(./img/guide_back.3a5127e910c15a49f875.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    padding: 50px;
+    text-align: center;
+    background-color: #146bad;
+}
+
+.div11-input::placeholder {
+    color: wheat;
+}
+
+
+.div11-btn {
+    background-color: #fff;
+    color: #666;
+    font-size: 14px;
+    font-weight: 700;
+    margin-top: 5px;
+    padding: 15px 30px;
+    width: 100%;
+}
+
+.footer {
+    background-color: #424242;
+    padding: 50px;
+    position: relative;
+    color: white;
+}
+
+.footer:before {
+    background-image: url(./img/upcoming_background.a669f19ea2aee3c7e10f.png);
+    background-position: 50% 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    content: " ";
+    display: block;
+    height: 100%;
+    left: 0;
+    opacity: .1;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.footer-icons {
+    margin-top: 20px;
+    padding: 10px;
+    z-index: 1;
+}
+
+.footer-icons div {
+    border-radius: 0;
+    cursor: pointer;
+    margin-left: 10px;
+    z-index: inherit;
+}
+
+
+
+.about ul {
+    padding: 0;
+    z-index: inherit;
+    color: white;
+}
+
+.about ul li {
+    cursor: pointer;
+    line-height: 40px;
+    list-style-type: none;
+}
+
+.footer_contact span {
+    color: #fff !important;
+    font-size: 12px;
+}
+
+.footer_copyright {
+    align-items: center;
+    border-top: 0.2px solid hsla(0, 0%, 100%, .2);
+    display: flex;
+    justify-content: center;
+}
+
+
+.footer_copyright span {
+    margin-top: 15px;
+}
+
+
+
+.media_banner .media_play {
+    cursor: pointer;
+    height: 50px;
+    object-fit: contain;
+    position: absolute;
+    width: 50px;
+    z-index: 100;
+}
+
+.media_banner img {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    height: 250px;
+    object-fit: cover;
+    width: 100%;
+}
+
+.media_banner {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.media_content {
+    margin: 0px auto;
+    width: 300px;
+}
+.dabba{
+padding-top: 30px 60px 30px 60px;
+    background-color: #146bad !important;
+    width: 1100px;
+    height: 400px;
+    margin-left: 120px;
+    margin-top: 60px;
+}
+.hello{
+    margin-top: 180px;
+margin-left: 150px;
+
+}
+.where{
+    margin-top: 180px;
+    margin-left: 150px;
+}
+.hy{
+    margin-top: 180px;
+    margin-left: 150px;
+}
+.what{
+    margin-top: 180px;
+    margin-left: 150px;  
+}
+.navbar{
+position: fixed !important ;
+top: 0px !important;
+z-index: 1;
+width: 100% !important;
+
+}
